@@ -1,20 +1,18 @@
 > * 原文地址：[How to build an HTML calculator app from scratch using JavaScript 用 JavaScript 制作一个 HTML 计算器](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/)
 > * 原文作者：Zell Liew
-> * 译者：
+> * 译者：lanxisama
 > * 校对者：
 
 ![How to build an HTML calculator app from scratch using JavaScript](https://cdn-media-1.freecodecamp.org/images/0*7GfUdSILXBLyAbQy.png)
 
-This is an epic article where you learn how to build a calculator from scratch. We’ll focus on the JavaScript you need to write—how to think about building the calculator, how to write the code, and eventually, how to clean up your code.
 
-By the end of the article, you should get a calculator that functions exactly like an iPhone calculator (without the  `+/-`  and percentage functionalities).
-
+这是一篇很棒的文章，在这里你可以学习到如何从头构建一款计算器。我们将关注于你需要编写的JavaScript，思考怎样构建这个计算器，怎样去编写代码，以及最终如何整理你的代码。
+在文章的最后，你会得到一款和iPhone计算器功能一模一样的计算器（除了没有 +/- 和百分比功能）
 ![](https://cdn-media-1.freecodecamp.org/images/Cw7jNVIhWFV4NSNY8-Lv8uX4583Hr5LvzYFq)
 
-### The prerequisites
+### 前置条件
 
-Before you attempt follow through the lesson, please make sure you have a decent command of JavaScript. Minimally, you need to know these things:
-
+在开始本节课程前，请确保你对JavaScript有一个不错的了解。最起码，你需要知道这些东西：
 1.  [If/else statements][1]
 2.  [For loops][2]
 3.  [JavaScript functions][3]
