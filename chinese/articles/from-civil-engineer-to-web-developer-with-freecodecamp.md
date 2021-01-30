@@ -6,25 +6,24 @@
 ![How I Went from Civil Engineer to Web Developer Using freeCodeCamp to Learn to Code](https://www.freecodecamp.org/news/content/images/size/w2000/2021/01/yasmine-arfaoui-G40jEUyEsEk-unsplash.jpg)
 
 Hey everyone! 👋
-
+你们好呀！👋
 2020 was a very tough year.
-
+2020年是非常艰难的一年。
 The COVID-19 pandemic is still going strong. Some people are sick or recovering from the virus, some are grieving family or friends, some have lost their jobs, and others have seen their businesses fall apart.
-
+新冠病毒依然在肆虐。有些人因为感染病毒而生病，有些人在慢慢康复，有些人失去了家人或朋友，有些人失去了他们的工作，有些人看到自己的生意一落千丈。
 At times like these, we're put to the test in situations we've never imagined we'd be. And this always means there's an opportunity to grow.
-
+这种情况下，我们会在未曾想过的条件下接受挑战。而这意味着一个成长的机会。
 Let me share with you the story of how I learned to code, which feels meaningful to me at this point in time.
+让我来给大家分享一些关于我学习代码的故事，我觉得这很有意义。
+## 在我还是土木工程师的阶段
 
-## My Life as a Civil Engineer
-
-It was January 2015 and I was traveling by car, moving from Huambo to Cubal (two Angolan towns) to start a new project: we were building a 100 km road to create a shortcut between two distant municipalities, Cubal and Chongoroi.
-
+2015年1月，我乘车从Huambo前往Cubal（Angolan的两个城镇）开始一个新的项目：我们正在修一条100公里长的公路，以便在两个最遥远的城市——Cubal和Chongoroi之间开辟一条近路。
 At my side was Pedro, an experienced soils and concrete lab technician. He was my co-pilot, my friend, and also a great professional which helped me make sure all technical aspects of the construction were under control. I myself, as a Sr. Civil Engineer, was occupied managing and tracking the contract between the government and the contractor.
-
+我的副驾驶叫Pedro，他是一名很有经验的土壤和混凝土实验室的研究院，也是我的朋友，同时也是一位确保施工的所有技术方面的东西得到控制的专业人士。至于我自己，作为一名高级土木工程师，忙于管理和跟进政府与承包商之间的合同。
 Two Portuguese expats in the middle of nowhere. We had just left Huambo and were well out of town when we stopped at a level crossing waiting for a train to pass.
-
+两个葡萄牙人在荒郊野外。我们刚离开Huambo就在一个路口等待火车通过。
 The radio was playing African fusion hits of the moment, and out of the blue I told him:
-
+收音机正在播放非洲当时的流行歌曲，我突然告诉他：
 > "It's January again... A New Year has begun and my life, you know, is completely turned upside down like I never imagined it to be. A complete mess. My relationship is dead, almost have no money, my daughter (firstborn) is far away from me and, above all,  **I'm completely tired of this job**."
 
 We were both forced to work abroad, running away from the GFC (Global Financial Crisis of 2007-2008) and the subsequent Portuguese Financial Crisis. It had drowned the construction market and sent it into a big recession and we quickly got into the Angolan oil crisis in 2015.
